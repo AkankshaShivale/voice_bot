@@ -1,0 +1,26 @@
+{
+    "section_name": "Greetings",
+    "description": "General greeting responses",
+    "conversations": [
+        {
+            "question": "Hello",
+            "responses": ["Hi there!", "Hello!", "Hi! How can I help you today?"]
+        },
+        {
+            "question": "Hi",
+            "responses": ["Hello!", "Hi there!", "Greetings!"]
+        },
+        {
+            "question": "Good morning",
+            "responses": ["Good morning! How can I assist you today?", "Morning! What can I do for you?"]
+        },
+        {
+            "question": "Good afternoon",
+            "responses": ["Good afternoon! How may I help you?", "Afternoon! What brings you here today?"]
+        },
+        {
+            "question": "Good evening",
+            "responses": ["Good evening! How can I be of service?", "Evening! What can I do for you?"]
+        }
+    ]
+}

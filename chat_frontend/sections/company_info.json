@@ -1,0 +1,39 @@
+{
+    "section_name": "Company Information",
+    "description": "General information about Indeed Inspiring Infotech",
+    "faqs": [
+        {
+            "question": "What is Indeed Inspiring Infotech?",
+            "keywords": ["company information", "about company", "company overview"],
+            "responses": [
+                "Indeed Inspiring Infotech is a tech-driven company specializing in IT solutions and training.",
+                "We are a company dedicated to bridging the gap between industry and academia through technology.",
+                "Indeed Inspiring provides IT training and corporate solutions to help businesses and individuals grow."
+            ]
+        },
+        {
+            "question": "Where is Indeed Inspiring Infotech located?",
+            "keywords": ["location", "address", "office"],
+            "responses": [
+                "The company is located at Flat No 401, Vrindavan Society, Near Samindradevi Market, BAIF Road, Wagholi, Pune MH - 412207.",
+                "Our headquarters are situated in Pune, serving clients and learners across India."
+            ]
+        },
+        {
+            "question": "What is the mission of Indeed Inspiring Infotech?",
+            "keywords": ["mission", "vision", "goal"],
+            "responses": [
+                "The mission is to empower individuals and organizations with industry-relevant skills and training.",
+                "We aim to bridge the skill gap between academia and industry through expert-led training programs."
+            ]
+        },
+        {
+            "question": "Is Indeed Inspiring Infotech a registered company?",
+            "keywords": ["registered", "legal status", "company registration"],
+            "responses": [
+                "Yes, Indeed Inspiring Infotech is a registered entity providing IT and training services.",
+                "We are a legally registered company in India, ensuring compliance with industry standards."
+            ]
+        }
+    ]
+}

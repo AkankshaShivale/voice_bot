@@ -1,0 +1,38 @@
+{
+    "section_name": "Contact Information",
+    "description": "How to contact Indeed Inspiring Infotech",
+    "faqs": [
+        {
+            "question": "How can I contact Indeed Inspiring Infotech?",
+            "keywords": ["contact", "address", "phone", "email"],
+            "responses": [
+                "You can contact us via email at info@indeedinspiring.com or call (+91) 9850113269.",
+                "Our office is located at Flat No 401, Vrindavan Society, Wagholi, Pune."
+            ]
+        },
+        {
+            "question": "What are the working hours?",
+            "keywords": ["working hours", "office timings"],
+            "responses": [
+                "Our working hours are 9:00 AM to 6:00 PM IST, Monday to Friday.",
+                "For training-related queries, our support team is available during business hours."
+            ]
+        },
+        {
+            "question": "Do you have a customer support team?",
+            "keywords": ["customer support", "helpdesk"],
+            "responses": [
+                "Yes, we have a dedicated customer support team to assist with queries.",
+                "Our support team is available to answer your questions and provide guidance."
+            ]
+        },
+        {
+            "question": "Do you have a social media presence?",
+            "keywords": ["social media", "LinkedIn", "Facebook"],
+            "responses": [
+                "Yes, you can follow us on LinkedIn and Facebook for updates.",
+                "Stay connected with us through our social media channels."
+            ]
+        }
+    ]
+}

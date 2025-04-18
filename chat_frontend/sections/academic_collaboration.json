@@ -1,0 +1,38 @@
+{
+    "section_name": "Academic Collaboration",
+    "description": "Information about university partnerships",
+    "faqs": [
+        {
+            "question": "How does Indeed Inspiring Infotech collaborate with colleges?",
+            "keywords": ["college collaboration", "academic partnerships", "university programs"],
+            "responses": [
+                "We collaborate with colleges to provide training programs that align with industry requirements.",
+                "Our partnerships help bridge the skill gap between students and the corporate world."
+            ]
+        },
+        {
+            "question": "What are the benefits of academic collaboration?",
+            "keywords": ["benefits", "college benefits", "student advantages"],
+            "responses": [
+                "Benefits include enhanced employability, industry-relevant skills for students.",
+                "Colleges see improved placement records through our industry-aligned programs."
+            ]
+        },
+        {
+            "question": "Do you provide certifications for college students?",
+            "keywords": ["certifications", "student certificates", "academic certifications"],
+            "responses": [
+                "Yes, students receive industry-recognized certifications upon completing our programs.",
+                "Our certificates add value to students' academic credentials."
+            ]
+        },
+        {
+            "question": "Can colleges request customized training programs?",
+            "keywords": ["customized programs", "tailored training", "college-specific courses"],
+            "responses": [
+                "Yes, we offer customized programs based on your curriculum and requirements.",
+                "We design tailor-made courses to align with your specific academic needs."
+            ]
+        }
+    ]
+}

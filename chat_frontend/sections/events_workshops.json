@@ -1,0 +1,43 @@
+{
+    "section_name": "Events & Workshops",
+    "description": "Information about upcoming and past events",
+    "timezone": "Asia/Kolkata",
+    "events": [
+        {
+            "id": "event-001",
+            "title": "Azure Data Engineering Career Guide",
+            "type": "workshop",
+            "speaker": "Dr. Sachin Kumar Saxena",
+            "date": "2023-04-02",
+            "start_time": "11:00",
+            "end_time": "12:00",
+            "location": "Virtual",
+            "description": "Session on transitioning from learning to earning in Azure Data Engineering",
+            "keywords": ["azure", "data engineering", "career guide"],
+            "status": "completed"
+        },
+        {
+            "id": "event-002",
+            "title": "Leadership and Marketing",
+            "type": "seminar",
+            "speaker": "Mr. T P Dilip Kumar",
+            "date": "2023-04-03",
+            "start_time": "13:30",
+            "end_time": "14:30",
+            "location": "Main Auditorium",
+            "description": "Interactive session on leadership strategies and marketing principles",
+            "keywords": ["leadership", "marketing"],
+            "status": "upcoming"
+        }
+    ],
+    "response_templates": {
+        "event_info": "The {title} by {speaker} is scheduled for {date} from {start_time} to {end_time} at {location}. {status_phrase}",
+        "status_phrases": {
+            "completed": "This event has already taken place.",
+            "upcoming": "This event is coming up soon!",
+            "ongoing": "This event is currently in progress."
+        },
+        "no_events": "There are no events matching your query.",
+        "multiple_events": "Here are the events I found:\n{events_list}"
+    }
+}

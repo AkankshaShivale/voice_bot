@@ -1,0 +1,38 @@
+{
+    "section_name": "Corporate Training",
+    "description": "Information about corporate training solutions",
+    "faqs": [
+        {
+            "question": "What types of corporate training does Indeed Inspiring Infotech offer?",
+            "keywords": ["corporate training", "company training", "professional development"],
+            "responses": [
+                "We provide customized corporate training programs, including fresher induction, upskilling, and leadership development.",
+                "Our solutions are designed to enhance workforce productivity and skill development."
+            ]
+        },
+        {
+            "question": "Can corporate training be customized?",
+            "keywords": ["customized training", "tailored programs", "company-specific training"],
+            "responses": [
+                "Yes, the programs are tailored to meet the specific needs of your organization.",
+                "We offer fully customizable training solutions for companies of all sizes."
+            ]
+        },
+        {
+            "question": "Do you provide training for large organizations?",
+            "keywords": ["large organizations", "enterprise training", "corporate clients"],
+            "responses": [
+                "Yes, we cater to organizations of all sizes, including large enterprises.",
+                "We have experience in delivering large-scale corporate training programs."
+            ]
+        },
+        {
+            "question": "What is the duration of corporate training programs?",
+            "keywords": ["training duration", "program length", "corporate course duration"],
+            "responses": [
+                "The duration depends on your requirements and can range from a few days to several weeks.",
+                "We offer flexible durations to suit your business needs."
+            ]
+        }
+    ]
+}

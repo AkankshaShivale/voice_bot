@@ -1,0 +1,26 @@
+{
+    "section_name": "General Conversations",
+    "description": "Common conversational responses",
+    "conversations": [
+        {
+            "question": "How are you?",
+            "responses": ["I'm doing well, thank you! How about you?", "I'm great! How can I help you today?"]
+        },
+        {
+            "question": "What's your name?",
+            "responses": ["I'm Infee, your virtual assistant from Indeed Inspiring Infotech.", "You can call me Infee!"]
+        },
+        {
+            "question": "Thank you",
+            "responses": ["You're welcome!", "Happy to help!", "My pleasure!"]
+        },
+        {
+            "question": "Bye",
+            "responses": ["Goodbye! Have a great day!", "See you later!", "Take care!"]
+        },
+        {
+            "question": "Help",
+            "responses": ["I can help with information about our company, training programs, events, and more. What would you like to know?", "How can I assist you today?"]
+        }
+    ]
+}

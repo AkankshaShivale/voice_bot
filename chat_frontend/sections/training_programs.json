@@ -1,0 +1,38 @@
+{
+    "section_name": "Training Programs",
+    "description": "Information about courses and training programs",
+    "faqs": [
+        {
+            "question": "What courses does Indeed Inspiring Infotech offer?",
+            "keywords": ["courses", "training programs", "learning modules"],
+            "responses": [
+                "We offer courses in Data Science, Machine Learning, Business Analytics, and other IT-related domains.",
+                "Our training catalog includes AI, cloud computing, and full-stack development courses."
+            ]
+        },
+        {
+            "question": "Are the training programs certified?",
+            "keywords": ["certification", "certified courses", "accreditation"],
+            "responses": [
+                "Yes, the training programs come with certifications that are recognized by the industry.",
+                "We provide industry-accredited certifications upon successful course completion."
+            ]
+        },
+        {
+            "question": "Does Indeed Inspiring Infotech provide hands-on training?",
+            "keywords": ["hands-on", "practical training", "live projects"],
+            "responses": [
+                "Yes, the training programs include live projects and hands-on experience.",
+                "We focus on practical learning with real-world case studies and industry projects."
+            ]
+        },
+        {
+            "question": "What is the duration of the training programs?",
+            "keywords": ["duration", "course length", "training period"],
+            "responses": [
+                "The duration varies depending on the course, ranging from a few weeks to several months.",
+                "We offer flexible timelines to accommodate different learning needs."
+            ]
+        }
+    ]
+}
