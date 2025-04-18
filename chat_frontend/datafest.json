@@ -1,0 +1,158 @@
+{
+    "faqs": [
+        {
+            "question": "Who is Dr. Sachin Kumar Saxena?",
+            "keywords": ["sachin kumar saxena", "azure data engineering", "sachin saxena"],
+            "responses": [
+                "Dr. Sachin Saxena is a Senior Data Analyst at Teleperformance, Portugal, with expertise in machine learning and data science. He will conduct a session on 'From Learning to Earning: Azure Data Engineering Career Guide' on 2 April from 11 am to 12 pm."
+            ]
+        },
+        {
+            "question": "What events are happening on 2 April?",
+            "keywords": ["2 april events", "events on 2 april"],
+            "responses": [
+                "On 2 April, Dr. Sachin Kumar Saxena will conduct a session on 'From Learning to Earning: Azure Data Engineering Career Guide' from 11 am to 12 pm."
+            ]
+        },
+        {
+            "question": "Who is T P Dilip Kumar?",
+            "keywords": ["t p dilip kumar", "leadership and marketing", "dilip kumar"],
+            "responses": [
+                "Mr. T P Dilip Kumar is a seasoned business leader specializing in strategy, people management, and sales excellence. He will conduct a session on 'Leadership and Marketing' on 3 April from 1:30 pm to 2:30 pm."
+            ]
+        },
+        {
+            "question": "Who is conducting the session on Leadership and Marketing?",
+            "keywords": ["leadership and marketing", "dilip kumar session"],
+            "responses": [
+                "Mr. T P Dilip Kumar will conduct a session on 'Leadership and Marketing' on 3 April from 1:30 pm to 2:30 pm."
+            ]
+        },
+        {
+            "question": "What events are happening on 3 April?",
+            "keywords": ["3 april events", "events on 3 april"],
+            "responses": [
+                "On 3 April, Mr. T P Dilip Kumar will conduct a session on 'Leadership and Marketing' from 1:30 pm to 2:30 pm."
+            ]
+        },
+        {
+            "question": "Who is Nimit Singh?",
+            "keywords": ["nimit singh", "technical trainer", "data driven decision making"],
+            "responses": [
+                "Mr. Nimit Singh is a skilled Technical Trainer with expertise in delivering comprehensive training on various technical subjects. He will participate in a panel discussion on 'Data Driven Decision Making in Business' on 4 April from 3 pm to 5 pm."
+            ]
+        },
+        {
+            "question": "What is the topic of Nimit Singh's session?",
+            "keywords": ["nimit singh session", "data driven decision making"],
+            "responses": [
+                "Mr. Nimit Singh will participate in a panel discussion on 'Data Driven Decision Making in Business' on 4 April from 3 pm to 5 pm."
+            ]
+        },
+        {
+            "question": "What events are happening on 4 April?",
+            "keywords": ["4 april events", "events on 4 april"],
+            "responses": [
+                "On 4 April, Mr. Nimit Singh will participate in a panel discussion on 'Data Driven Decision Making in Business' from 3 pm to 5 pm. Additionally, Mr. Smaranjit Ghose will conduct a session on 'Looking into GenAI from 2025' from 11 am to 12 pm."
+            ]
+        },
+        {
+            "question": "Who is Shivaleela Annamalai?",
+            "keywords": ["shivaleela annamalai", "personality development", "interview skills"],
+            "responses": [
+                "Shivaleela Annamalai is an expert in Personality Development & Interview Skills. She will conduct a session on 'Personality Development and Interview Skills' on 5 April from 11 am to 12 pm."
+            ]
+        },
+        {
+            "question": "What events are happening on 5 April?",
+            "keywords": ["5 april events", "events on 5 april"],
+            "responses": [
+                "On 5 April, Shivaleela Annamalai will conduct a session on 'Personality Development and Interview Skills' from 11 am to 12 pm. Additionally, Mr. Peeyush Pareek will conduct a session on 'Mobile Application Development' from 10 am to 11 am, and Mr. Mohan Bhide will conduct a session on 'Challenge of 2030' from 2 pm to 3 pm."
+            ]
+        },
+        {
+            "question": "Who is Akshay Goud?",
+            "keywords": ["akshay goud", "teamwork", "public speaking"],
+            "responses": [
+                "Mr. Akshay Goud is the Founder and Director of Guidance Group. He will conduct a session on 'Teamwork and Public Speaking' on 7 April from 10 am to 11 am."
+            ]
+        },
+        {
+            "question": "Who is conducting the session on Teamwork and Public Speaking?",
+            "keywords": ["teamwork and public speaking", "akshay goud session"],
+            "responses": [
+                "Mr. Akshay Goud will conduct a session on 'Teamwork and Public Speaking' on 7 April from 10 am to 11 am."
+            ]
+        },
+        {
+            "question": "What events are happening on 7 April?",
+            "keywords": ["7 april events", "events on 7 april"],
+            "responses": [
+                "On 7 April, Mr. Akshay Goud will conduct a session on 'Teamwork and Public Speaking' from 10 am to 11 am."
+            ]
+        },
+        {
+            "question": "Who is Moin Anis Hassanfatta?",
+            "keywords": ["moin anis hassanfatta", "full stack mern", "mern development"],
+            "responses": [
+                "Moin Anis Hassanfatta is a passionate CBSE Financial Literacy Trainer and tech educator. He will conduct a session on 'Full Stack MERN' on 10 April from 10 am to 11 am."
+            ]
+        },
+        {
+            "question": "Who is conducting the session on Full Stack MERN?",
+            "keywords": ["full stack mern", "moin anis hassanfatta session"],
+            "responses": [
+                "Moin Anis Hassanfatta will conduct a session on 'Full Stack MERN' on 10 April from 10 am to 11 am."
+            ]
+        },
+        {
+            "question": "What events are happening on 10 April?",
+            "keywords": ["10 april events", "events on 10 april"],
+            "responses": [
+                "On 10 April, Moin Anis Hassanfatta will conduct a session on 'Full Stack MERN' from 10 am to 11 am."
+            ]
+        },
+        {
+            "question": "Who is Mr. Smaranjit Ghose?",
+            "keywords": ["smaranjit ghose", "genai", "generative ai"],
+            "responses": [
+                "Mr. Smaranjit Ghose is a seasoned data scientist and AI expert. He will conduct a session on 'Looking into GenAI from 2025' on 4 April from 11 am to 12 pm."
+            ]
+        },
+        {
+            "question": "Who is Mr. Peeyush Pareek?",
+            "keywords": ["peeyush pareek", "mobile application development"],
+            "responses": [
+                "Mr. Peeyush Pareek is a senior faculty and technical trainer specializing in mobile app development. He will conduct a session on 'Mobile Application Development' on 5 April from 10 am to 11 am."
+            ]
+        },
+        {
+            "question": "Who is Mr. Mohan Bhide?",
+            "keywords": ["mohan bhide", "challenge of 2030"],
+            "responses": [
+                "Mr. Mohan Bhide is the Director of Swami Vivekananda Educational Institute. He will conduct a session on 'Challenge of 2030' on 5 April from 2 pm to 3 pm."
+            ]
+        },
+        {
+            "question": "What are the upcoming events?",
+            "keywords": ["upcoming events", "future events"],
+            "responses": [
+                "Upcoming events include:\n- 'From Learning to Earning: Azure Data Engineering Career Guide' by Dr. Sachin Kumar Saxena on 2 April.\n- 'Leadership and Marketing' by Mr. T P Dilip Kumar on 3 April.\n- 'Looking into GenAI from 2025' by Mr. Smaranjit Ghose on 4 April.\n- 'Personality Development and Interview Skills' by Shivaleela Annamalai on 5 April."
+            ]
+        },
+        {
+            "question": "What are the past events?",
+            "keywords": ["past events", "completed events"],
+            "responses": [
+                "Past events include:\n- 'Challenge of 2030' by Mr. Mohan Bhide on 5 April.\n- 'Teamwork and Public Speaking' by Mr. Akshay Goud on 7 April.\n- 'Full Stack MERN' by Moin Anis Hassanfatta on 10 April."
+            ]
+        },
+        {
+            "question": "What are the current events?",
+            "keywords": ["current events", "ongoing events"],
+            "responses": [
+                "Currently, there are no ongoing events. Please check the schedule for upcoming events."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "faqs": [
+        {
+            "question": "What is Prushal Technology Pvt. Ltd.?",
+            "keywords": [
+                "prushal technology",
+                "about prushal",
+                "company overview"
+            ],
+            "responses": [
+                "Prushal Technology Pvt. Ltd. is a Pune-based IT and software services company offering ERP software, web and mobile app development, cloud solutions, and digital marketing.",
+                "We are a technology-driven company providing innovative IT solutions and business automation services.",
+                "Prushal Technology specializes in digital transformation, helping businesses optimize their operations through technology."
+            ]
+        },
+        {
+            "question": "Does Prushal Technology offer internships?",
+            "keywords": [
+                "prushal internships",
+                "training programs"
+            ],
+            "responses": [
+                "Yes, Prushal Technology provides internships and corporate training programs in IT and software development.",
+                "We offer internship programs aimed at developing young professionals in the fields of IT, software engineering, and digital solutions.",
+                "Prushal Technology regularly offers internships and practical training programs for aspiring tech enthusiasts in various IT domains."
+            ]
+        },
+        {
+            "question": "Farewell message",
+            "keywords": [
+                "bye",
+                "exit",
+                "goodbye"
+            ],
+            "responses": [
+                "Ok bye! Have a good day!",
+                "Goodbye, take care and have a wonderful day ahead!",
+                "Wishing you all the best! Farewell and have a great day!"
+            ]
+        },
+        {
+            "question": "Greeting message",
+            "keywords": [
+                "hello",
+                "hi",
+                "greetings"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! What can I do for you?",
+                "Greetings! How may I help you?"
+            ]
+        }
+    ]
+}
